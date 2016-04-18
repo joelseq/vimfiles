@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Kyle/Desktop/CSE167/Project 1/CSE167 Spring 2015 Starter Code.xcodeproj'
+let g:netrw_dirhist_2='/Users/Kyle/Desktop/CSE167/Graphics/Graphics.xcodeproj/project.xcworkspace'
+let g:netrw_dirhist_3='/Users/Kyle/Desktop/CSE190/starter_code/Includes'
